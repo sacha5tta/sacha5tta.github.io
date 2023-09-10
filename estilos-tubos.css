@@ -8,23 +8,27 @@ body{background-image: url("img/fondo1.webp")  ;
           background-size: cover;
           background-attachment:fixed ;
           background-color:rgba(0, 0, 0, .2) ;
-          background-blend-mode:darken ;
-          display: flex; 
-          justify-content: center; 
-          align-items: center; 
-          height: 100vh; 
-          margin: 0;  }
+          background-blend-mode:darken ; }
 
 
-          .descarga{display: inline-block;
-            margin: auto;     /* Hace que el enlace se comporte como un elemento en línea con tamaño */
-           padding: 10px 20px; /* Espaciado interior para el botón (arriba/abajo, izquierda/derecha) */
-           background-color: red; /* Color de fondo rojo */
-           color: white; /* Color del texto en blanco */
-           text-decoration: none; /* Quita el subrayado predeterminado de los enlaces */
-           border: 2px solid darkred; /* Borde de 2 píxeles de grosor y color oscuro */
-           border-radius: 5px; /* Borde redondeado */
-           font-size: 16px; /* Tamaño de fuente */
-           font-weight: bold; /* Texto en negrita */
-           cursor: pointer; }
-        
+.pdf-tub{margin:auto;
+           display:block; 
+           width:80%;
+           height:100vh;
+           border-radius:20px;
+           box-shadow: 0 4px 8px 0 rgba(0,0,0, 0.2) ,
+                       0 6px 20px 0 rgba(0 , 0 , 0 , 0.19);
+             }
+
+
+.title{text-align:center;
+       padding:20px;
+       font-family:"arial";
+       color:#fff;}             
+
+@media screen and (max-width: 500px) {
+    /* Estilos específicos para pantallas pequeñas */
+    .pdf-tubos {
+       width: 340px;
+       height: 600px;
+    }}
