@@ -54,17 +54,10 @@ body {
 }
 
 body{
-    background-image: url('img/img7.webp');
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-color: rgba(0, 0, 0, .2);
-    background-blend-mode: darken;
-    height: 100%;
-    width: 100%;
-    
-}
+    background-color: rgb(18 47 131);
+      
+  }
+  
 
 
 .s-center {
