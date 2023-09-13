@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Orbitron";
     src:
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Orbitron.woff2") format("woff2"),
+        url("/Fonts/Orbitron.woff2") format("woff2"),
         url("/Fonts/Orbitron.ttf") format("truetype");
     font-weight: bold;
 
@@ -10,15 +10,15 @@
 @font-face {
     font-family: "Manrope";
     src:
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Manrope.woff2") format("woff2"),
+        url("/Fonts/Manrope.woff2") format("woff2"),
         url("/Fonts/Manrope.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Libre Baskerville";
     src:
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/LibreBaskerville.woff2") format("woff2"),
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/LibreBaskerville.ttf") format("truetype");
+        url("/Fonts/LibreBaskerville.woff2") format("woff2"),
+        url("/Fonts/LibreBaskerville.ttf") format("truetype");
 }
 
 @font-face {
@@ -26,8 +26,8 @@
     src:
         /* url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Rubik.woff2") format("woff2"),
     url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Rubik.ttf") format("truetype");*/
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/RubikWetPaint-Regular.woff2") format("woff2"),
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/RubikWetPaint-Regular.ttf") format("truetype");
+        url("/Fonts/RubikWetPaint-Regular.woff2") format("woff2"),
+        url("/Fonts/RubikWetPaint-Regular.ttf") format("truetype");
 
 
 }
@@ -37,8 +37,8 @@
     src:
         /* url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Rubik.woff2") format("woff2"),
     url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/Rubik.ttf") format("truetype");*/
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/EBGaramond-ExtraBold.woff2") format("woff2"),
-        url("/Users/Sacha/Desktop/Programacion/Pagina web fisicles/Fonts/RubikWetPaint-Regular.ttf") format("truetype");
+        url("/Fonts/EBGaramond-ExtraBold.woff2") format("woff2"),
+        url("/Fonts/RubikWetPaint-Regular.ttf") format("truetype");
 
 
 }
