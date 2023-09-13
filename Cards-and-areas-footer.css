@@ -375,7 +375,7 @@
 
 @media screen and (max-width: 1099px) {
   .cube {
-    top: -10000px;
+   display: none;
   }
 } /*puede traer conflictos , desaparece de la vista nomas */
 
