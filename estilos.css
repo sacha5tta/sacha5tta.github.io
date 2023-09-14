@@ -54,17 +54,8 @@ body {
 }
 
 body{
-     
-       background-image: url('img/fondo1.webp');
-       background-position: center center;
-       background-repeat: no-repeat;
-       background-size: cover;
-       background-attachment: fixed;
-       background-color: rgba(0, 0, 0, .4);
-       background-blend-mode: darken;
-       height: 100%;
-       width: 100%;
-   
+    background-image: linear-gradient(to right top, #051937, #302049, #592350, #7f264c, #9d333d);
+    
 }
   
 
